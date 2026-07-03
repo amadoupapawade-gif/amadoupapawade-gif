@@ -13,7 +13,7 @@ Je combine l'ingénierie statistique, la modélisation de données et l'analyse 
 * **Data Science & Économétrie :** Nettoyage de bases de données complexes, modélisation statistique et prévisions sectorielles.
 
 ## 🛠️ Boîte à Outils Techniques
-* **Statistiques & Data :** Stata, R, Python, Advanced Excel
+* **Statistiques & Data :** Stata, R, Python, Advanced Excel, Eviews, SQL, PowerBi
 * **Analyse Spatiale :** QGIS (Systèmes d'Information Géographique)
 * **Visualisation & Design :** Canva Pro, Git/GitHub
 
